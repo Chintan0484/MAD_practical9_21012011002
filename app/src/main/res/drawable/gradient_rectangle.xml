@@ -5,8 +5,8 @@
         android:endColor="@color/blue"
         android:type="radial"
         android:gradientRadius="1500"
-        android:centerX="0"
-        android:centerY="0"
+        android:centerX="0.9"
+        android:centerY="0.9"
 
         ></gradient>
 
