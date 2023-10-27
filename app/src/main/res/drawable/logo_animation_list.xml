@@ -16,15 +16,15 @@
         android:duration="200" />
     <item
         android:drawable="@drawable/uvpce_logo_4"
-        android:duration="200" />
+        android:duration="150" />
     <item
         android:drawable="@drawable/uvpce_logo_5"
-        android:duration="200" />
+        android:duration="150" />
     <item
         android:drawable="@drawable/uvpce_logo_6"
-        android:duration="50" />
+        android:duration="100" />
     <item
         android:drawable="@drawable/uvpce_logo_7"
-        android:duration="50" />
+        android:duration="100" />
 
 </animation-list>
