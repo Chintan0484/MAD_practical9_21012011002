@@ -8,6 +8,8 @@ AIM: What is Frame by Frame Animation? What is Twin Animation? How can you achie
 3)Create gradient Rectangle by using <gradient> tag in <shape> tag for background of SplashActivity. Use radial rectangle with x = 0.9, y =0.9, radius = 1500. Start Color pink and End Color blue. shape should be rectangle
 
 4)Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag
+
+
 answer:-
 Frame by Frame Animation:
 Frame by frame animation, also known as traditional animation or cel animation, is a technique where a sequence of individual frames or images is displayed in rapid succession to create the illusion of motion. Each frame contains a slightly different image, and when these frames are played back in quick succession, it gives the appearance of continuous motion. This is the same technique used in classic hand-drawn animation and stop-motion animation. In digital animation, frame by frame animation can be created by producing and displaying a series of images, each with small incremental changes from the previous one. This technique is commonly used for creating animations with a hand-drawn or stop-motion look.
